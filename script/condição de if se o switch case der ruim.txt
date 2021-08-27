@@ -1,0 +1,17 @@
+if(operador = "+") {
+            console.log(numeroAnterior);
+            console.log(numeroAtual);
+            atualizarDisplay(numeroAnterior + numeroAtual);
+        } else if (operador = "-"){
+            console.log(numeroAnterior);
+            console.log(numeroAtual);
+            atualizarDisplay(numeroAnterior - numeroAtual);
+        } else if (operador = "*"){
+            console.log(numeroAnterior);
+            console.log(numeroAtual);
+            atualizarDisplay(numeroAnterior * numeroAtual);
+        } else if (operador = "/"){
+            console.log(numeroAnterior);
+            console.log(numeroAtual);
+            atualizarDisplay(numeroAnterior / numeroAtual);
+        }
